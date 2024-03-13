@@ -1,7 +1,7 @@
 # UniformCD
 
 
-This repository contains experiments related to the uniform CD.
+This repository contains experiments related to the uniform CD objective function.
 
 
 ## Requirements
