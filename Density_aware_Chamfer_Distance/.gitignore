@@ -3,7 +3,7 @@
 /log/*
 */**/__pycache__
 /__pycache__/*
-*data/*
+# *data/*
 *.swp
 **/*.pkl
 */log/*
@@ -21,7 +21,7 @@
 
 **/*.pdf
 **/*.zip
-**/*.pth
+# **/*.pth
 **/*.json
 **/*.h5
 **/*.txt
