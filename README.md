@@ -49,4 +49,3 @@ For additional instructions including setup and dataset download, please follow 
 ### Notebooks
 
 This repo contains three notebooks which contain experiments related to visualisations of various loss functions and their correspondences, sphere morphing, and various visualisations of results from completion and reconstruction. Further information is provided within the notebooks.
-![alt text](image.png)
